@@ -1,0 +1,28 @@
+name: Gallery
+preview: fields
+# label: false # disables block title bar
+fields:
+  columns-sm:
+    extends: fields/columns
+    label: Columns (small)
+    default: 1
+    width: 1/4
+  columns-md:
+    extends: fields/columns
+    label: Columns (medium)
+    default: 2
+    width: 1/4
+  columns-lg:
+    extends: fields/columns
+    label: Columns (large)
+    default: 4
+    width: 1/4
+  columns-xl:
+    extends: fields/columns
+    label: Columns (extra large)
+    default: 5
+    width: 1/4
+  gallery:
+    type: blocks
+    fieldsets:
+      - image

@@ -1,0 +1,9 @@
+Title: News
+
+----
+
+Layout: [{"attrs":{"align":"top","padding":"false"},"columns":[{"blocks":[{"content":{"level":"h1","text":"News","link":""},"id":"95d75cbe-f3d6-48b7-9572-0d925df7c499","isHidden":false,"type":"heading"},{"content":{"level":"h5","text":"The Kavli Institute of Nanoscience Delft has a highly international character with faculty members coming to Delft from all over the world. Many of the scientific staff had their education at renowned universities such as Stanford, Harvard, or Oxford. The Institute recently grew from 25 to 50 leading scientists (faculty members) and it projects further growth.","link":""},"id":"8dc92a7f-740b-4fc4-a629-f493f1fc41f7","isHidden":false,"type":"heading"}],"id":"6e3820a2-913e-4514-8ee7-958ab786594f","width":"1/1"}],"id":"aa96444a-c9fe-4f71-8421-8871957f304f"}]
+
+----
+
+Uuid: bJDEn0Xwg6CzSIUt

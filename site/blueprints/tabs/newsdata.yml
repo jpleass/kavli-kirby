@@ -1,0 +1,35 @@
+label: Data
+columns:
+  data:
+    width: 2/3
+    sections:
+      data:
+        type: fields
+        headline: Blocks
+        fields:
+          cover:
+            type: blocks
+            label: Cover
+            fieldsets:
+              - image
+            multiple: false
+
+          date:
+            type: date
+            default: today
+
+          text:
+            label: Excerpt
+            type: writer
+            required: true
+            help: This is the excerpt that will be shown on the news overview page.
+
+          relatedPages:
+            label: Related Pages
+            type: pages
+            help: This allows you to show this item on this page in a news block.
+  files:
+    width: 1/3
+    sections:
+      files:
+        headline: Media

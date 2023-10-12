@@ -1,0 +1,15 @@
+name: Card
+preview: fields
+tabs:
+  content:
+    fields:
+      card: fields/card
+  styles:
+    fields:
+      style:
+        type: select
+        label: Style
+        default: default
+        options:
+          - default
+          - transparent

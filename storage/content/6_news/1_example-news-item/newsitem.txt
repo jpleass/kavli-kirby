@@ -1,0 +1,29 @@
+Title: Example News Item
+
+----
+
+Cover: [{"content":{"location":"kirby","image":["file://aGhvDNLmuoYFETOQ"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"30987f2e-7644-4a9b-87ad-ab043da0c4bb","isHidden":false,"type":"image"}]
+
+----
+
+Date: 2023-10-12
+
+----
+
+Text: <p>Summer 2022 saw the first occurrence of the Dutch Cryo-EM school taking place at BN in Delft and at the National Center for Electron Nanoscopy in Leiden. The school was generously sponsored by the Netherlands Infrastructure for Electron Microscopy (NEMI) and by KIND.</p>
+
+----
+
+Relatedpages: - page://uaBh1TD36V9EhOrK
+
+----
+
+Layout: [{"attrs":{"align":"top","padding":"false"},"columns":[{"blocks":[{"content":{"text":"<p><strong>Summer 2022 saw the first occurrence of the Dutch Cryo-EM school taking place at BN in Delft and at the National Center for Electron Nanoscopy in Leiden. The school was generously sponsored by the Netherlands Infrastructure for Electron Microscopy (NEMI) and by KIND.</strong></p><p>Summer 2022 saw the first occurrence of the Dutch Cryo-EM school taking place at BN in Delft and at the National Center for Electron Nanoscopy in Leiden. The school was generously sponsored by the Netherlands Infrastructure for Electron Microscopy (NEMI) and by KIND.<br></p><p>From 27 June to 02 July 2022, twenty PhD students and postdocs from Dutch universities and research institutes had the chance to apprehend the state-of-the-art in the practice of cryogenic electron microscopy (cryo-EM) applied to biomolecular complexes in lectures and practicals given by international leaders in the field. <br><br>The participants learned about practical aspects in optimally aligning transmission electron microscopes for phase contrast imaging, the ins and outs of advanced image processing for single particle analysis and electron tomography, and how to interpret the resulting data to extract detailed information on the nanoscale physics and chemistry of biomolecular machines.<br><br>Moreover, the week-long interaction allowed the participants to expand their own scientific networks, both through interactions with the experts who stayed on for the full duration of the school, and with their peers at different research organisations throughout the Netherlands. The school, co-organised by BN and colleagues in Utrecht and Leiden, was a great success and highly appreciated by the very positive feedback from both participating students and invited teachers.<br><br>We hope to make this school a new (biannual) tradition and thank KIND for their generous support in making this happen!<br>Read more here</p>"},"id":"49d5f9da-ba1e-40f7-8ee4-f41951d376aa","isHidden":false,"type":"text"}],"id":"9ba0ac2b-1bd1-436a-b0e0-ce220ac1c654","width":"1/1"}],"id":"30ded5c0-0aae-4271-9431-97a303c34920"}]
+
+----
+
+Excerpt: <p>Summer 2022 saw the first occurrence of the Dutch Cryo-EM school taking place at BN in Delft and at the National Center for Electron Nanoscopy in Leiden. The school was generously sponsored by the Netherlands Infrastructure for Electron Microscopy (NEMI) and by KIND.</p>
+
+----
+
+Uuid: 9IaCLGygNGdBQEB6

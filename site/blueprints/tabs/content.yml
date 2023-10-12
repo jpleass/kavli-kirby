@@ -1,0 +1,49 @@
+label: Blocks
+columns:
+  blocks:
+    width: 2/3
+    sections:
+      blocks:
+        type: fields
+        headline: Blocks
+        fields:
+          layout:
+            label: Layout
+            type: layout
+            settings:
+              fields:
+                align:
+                  type: select
+                  label: Alignment
+                  options:
+                    top: Top
+                    center: Center
+                    bottom: Bottom
+                  default: top
+                padding:
+                  type: toggle
+                  label: Padding
+                  default: false
+            layouts:
+              - "1/1"
+              - "1/2, 1/2"
+            fieldsets:
+              - heading
+              - text
+              - link
+              - multilinks
+              - image
+              - video
+              - quote
+              - gap
+              - expand
+              - large-card
+              - small-card
+              - cards
+              - testimonial
+              - quote
+  files:
+    width: 1/3
+    sections:
+      files:
+        headline: Media

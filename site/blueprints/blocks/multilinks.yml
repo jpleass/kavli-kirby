@@ -1,0 +1,6 @@
+name: Multi Links
+fields:
+  links:
+    type: blocks
+    fieldsets:
+      - link

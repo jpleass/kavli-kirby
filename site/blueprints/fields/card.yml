@@ -1,0 +1,21 @@
+name: Card
+type: group
+fields:
+  heading:
+    type: text
+    label: Heading
+  subheading:
+    type: text
+    label: Subheading
+  text:
+    type: writer
+    label: Text
+  links:
+    type: blocks
+    fieldsets:
+      - link
+  image:
+    type: blocks
+    fieldsets:
+      - image
+    max: 1

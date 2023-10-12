@@ -1,6 +1,6 @@
-title: Full Block
+title: News Item
 options:
   preview: "{{ page.frontendUrl }}"
 tabs:
+  data: tabs/newsdata
   blocks: tabs/content
-  subpages: tabs/pages

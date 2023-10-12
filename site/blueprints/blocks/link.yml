@@ -1,0 +1,6 @@
+name: Link
+preview: fields
+fields:
+  link:
+    type: link
+    label: Link

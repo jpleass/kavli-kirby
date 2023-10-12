@@ -1,0 +1,34 @@
+label: Pagetable
+columns:
+  pages:
+    sections:
+      pages:
+        headline: Subpage
+        type: pagetable
+        template: newsitem
+        columns:
+          title:
+            label: Title
+            text: "{{ page.title }}"
+            width: 1/2
+
+          date:
+            label: Date
+            type: date
+            text: '{{ page.date("Y-m-d") }}'
+            dateInputFormat: "YYYY-MM-DD"
+            dateOutputFormat: "DD/MM/YYYY"
+            width: 1/4
+
+          modified:
+            label: Modified On
+            type: date
+            text: '{{ page.modified("Y-m-d") }}'
+            dateInputFormat: "YYYY-MM-DD"
+            dateOutputFormat: "DD/MM/YYYY"
+            width: 1/4
+
+        # template:
+        #   - default
+        # image:
+        #   cover: true

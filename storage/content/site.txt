@@ -1,1 +1,55 @@
-Title: Mægazine
+Title: Kavli
+
+----
+
+Navigationpages:
+
+- page://GD7YJM5UPl2OE2Vr
+- page://DTkzJvPUbCDby0xJ
+- page://m8HBS4uqbXa8C3kJ
+- page://bJDEn0Xwg6CzSIUt
+
+----
+
+Footer-logos:
+
+- file://1HM0tI2R7pC9avPj
+- file://SEei6QU3KeYadzvn
+
+----
+
+Footer-contacts:
+
+- 
+  link:
+    type: tel
+    value: +31 (0)6 412 301 71
+- 
+  link:
+    type: email
+    value: kavli@tudelft.nl
+
+----
+
+Footer-newsletter-url: https://example.com
+
+----
+
+Footer-newsletter-text: Newsletter
+
+----
+
+Footer-copyright: © Kavli Institute of NanoScience Delft & Delft University of Technology, 2023
+
+----
+
+Footer-links:
+
+- 
+  link:
+    type: page
+    value: page://DrxchBmw9i9UW0wi
+- 
+  link:
+    type: page
+    value: page://8tL7XCh9sZJkby1x

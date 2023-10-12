@@ -1,0 +1,11 @@
+name: Testimonial
+preview: fields
+fields:
+  image:
+    type: blocks
+    fieldsets:
+      - image
+  text:
+    type: writer
+    label: Text
+    required: true

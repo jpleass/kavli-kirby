@@ -1,0 +1,23 @@
+name: Expand
+preview: fields
+fields:
+  title:
+    label: Title
+    type: text
+  layout:
+    label: Layout
+    type: layout
+    layouts:
+      - "1/1"
+      - "1/2, 1/2"
+    fieldsets:
+      - heading
+      - text
+      - image
+      - video
+      - quote
+      - gap
+      - taglist
+      - line
+      - carousel
+      - gallery

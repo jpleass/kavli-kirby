@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d3fc6627b0fe99640a0466df3939e82b",
+    "content-hash": "1800bfdd130142196a40fc409ee257d1",
     "packages": [
         {
             "name": "claviska/simpleimage",
@@ -491,17 +491,52 @@
             "time": "2023-02-25T20:23:15+00:00"
         },
         {
-            "name": "johannschopplich/kirby-headless",
-            "version": "1.6.1",
+            "name": "jg/kirby-fields-block",
+            "version": "v1.2.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/johannschopplich/kirby-headless.git",
-                "reference": "c7623737719d7d7604e3bd571a5c579466ae3aad"
+                "url": "https://github.com/jongacnik/kirby-fields-block.git",
+                "reference": "e56c4d109edd921a1b4436e3df0e64b1117f1b83"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/johannschopplich/kirby-headless/zipball/c7623737719d7d7604e3bd571a5c579466ae3aad",
-                "reference": "c7623737719d7d7604e3bd571a5c579466ae3aad",
+                "url": "https://api.github.com/repos/jongacnik/kirby-fields-block/zipball/e56c4d109edd921a1b4436e3df0e64b1117f1b83",
+                "reference": "e56c4d109edd921a1b4436e3df0e64b1117f1b83",
+                "shasum": ""
+            },
+            "require": {
+                "getkirby/composer-installer": "^1.1"
+            },
+            "type": "kirby-plugin",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jon Gacnik",
+                    "email": "jon@folderstudio.com"
+                }
+            ],
+            "description": "Kirby Fields Block",
+            "support": {
+                "issues": "https://github.com/jongacnik/kirby-fields-block/issues",
+                "source": "https://github.com/jongacnik/kirby-fields-block/tree/v1.2.1"
+            },
+            "time": "2023-01-22T19:02:00+00:00"
+        },
+        {
+            "name": "johannschopplich/kirby-headless",
+            "version": "1.6.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/johannschopplich/kirby-headless.git",
+                "reference": "fd57db72d901d43dc97c4801143733d1eb7bf386"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/johannschopplich/kirby-headless/zipball/fd57db72d901d43dc97c4801143733d1eb7bf386",
+                "reference": "fd57db72d901d43dc97c4801143733d1eb7bf386",
                 "shasum": ""
             },
             "require": {
@@ -514,6 +549,11 @@
             "type": "kirby-plugin",
             "extra": {
                 "kirby-cms-path": false
+            },
+            "autoload": {
+                "psr-4": {
+                    "JohannSchopplich\\Headless\\": "src/classes/"
+                }
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -534,9 +574,9 @@
             ],
             "support": {
                 "issues": "https://github.com/johannschopplich/kirby-headless/issues",
-                "source": "https://github.com/johannschopplich/kirby-headless/tree/v1.6.1"
+                "source": "https://github.com/johannschopplich/kirby-headless/tree/v1.6.3"
             },
-            "time": "2023-08-15T07:44:21+00:00"
+            "time": "2023-09-07T08:01:50+00:00"
         },
         {
             "name": "johannschopplich/kirby-helpers",
@@ -780,6 +820,64 @@
             "time": "2016-12-13T01:01:17+00:00"
         },
         {
+            "name": "oblik/kirby-link-field",
+            "version": "5.2.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/OblikStudio/kirby-link-field.git",
+                "reference": "6d0a8a3ff86f61cea154aa2a2b7faa97c9b6eeac"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/OblikStudio/kirby-link-field/zipball/6d0a8a3ff86f61cea154aa2a2b7faa97c9b6eeac",
+                "reference": "6d0a8a3ff86f61cea154aa2a2b7faa97c9b6eeac",
+                "shasum": ""
+            },
+            "require": {
+                "getkirby/cms": "^3.8",
+                "getkirby/composer-installer": "^1.1"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.5"
+            },
+            "type": "kirby-plugin",
+            "extra": {
+                "installer-name": "link-field"
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Oblik Studio",
+                    "email": "hello@oblik.studio",
+                    "homepage": "https://oblik.studio/"
+                },
+                {
+                    "name": "Hristiyan Dodov",
+                    "email": "hello@dodov.dev",
+                    "homepage": "https://dodov.dev/"
+                }
+            ],
+            "description": "Kirby 3 field for all types of links.",
+            "keywords": [
+                "kirby",
+                "kirby-plugin"
+            ],
+            "support": {
+                "issues": "https://github.com/OblikStudio/kirby-link-field/issues",
+                "source": "https://github.com/OblikStudio/kirby-link-field"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/OblikStudio",
+                    "type": "github"
+                }
+            ],
+            "time": "2023-02-11T07:39:52+00:00"
+        },
+        {
             "name": "phpmailer/phpmailer",
             "version": "v6.8.0",
             "source": {
@@ -985,6 +1083,54 @@
             "time": "2021-07-14T16:46:02+00:00"
         },
         {
+            "name": "sylvainjule/pagetable",
+            "version": "1.1.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sylvainjule/kirby-pagetable.git",
+                "reference": "7f6738f21c718d222aa6f4323ae77dc7e7b9f268"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sylvainjule/kirby-pagetable/zipball/7f6738f21c718d222aa6f4323ae77dc7e7b9f268",
+                "reference": "7f6738f21c718d222aa6f4323ae77dc7e7b9f268",
+                "shasum": ""
+            },
+            "require": {
+                "getkirby/composer-installer": "^1.1"
+            },
+            "type": "kirby-plugin",
+            "extra": {
+                "installer-name": "pagetable"
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sylvain Julé",
+                    "email": "contact@sylvain-jule.fr"
+                }
+            ],
+            "description": "Display subpages in a flexible table",
+            "support": {
+                "issues": "https://github.com/sylvainjule/kirby-pagetable/issues",
+                "source": "https://github.com/sylvainjule/kirby-pagetable/tree/1.1.6"
+            },
+            "funding": [
+                {
+                    "url": "https://www.paypal.me/sylvainjl",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/sylvainjule",
+                    "type": "github"
+                }
+            ],
+            "time": "2022-10-27T11:51:16+00:00"
+        },
+        {
             "name": "symfony/deprecation-contracts",
             "version": "v3.3.0",
             "source": {
@@ -1053,16 +1199,16 @@
         },
         {
             "name": "symfony/polyfill-ctype",
-            "version": "v1.27.0",
+            "version": "v1.28.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-ctype.git",
-                "reference": "5bbc823adecdae860bb64756d639ecfec17b050a"
+                "reference": "ea208ce43cbb04af6867b4fdddb1bdbf84cc28cb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/5bbc823adecdae860bb64756d639ecfec17b050a",
-                "reference": "5bbc823adecdae860bb64756d639ecfec17b050a",
+                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/ea208ce43cbb04af6867b4fdddb1bdbf84cc28cb",
+                "reference": "ea208ce43cbb04af6867b4fdddb1bdbf84cc28cb",
                 "shasum": ""
             },
             "require": {
@@ -1077,7 +1223,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "1.27-dev"
+                    "dev-main": "1.28-dev"
                 },
                 "thanks": {
                     "name": "symfony/polyfill",
@@ -1115,7 +1261,7 @@
                 "portable"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-ctype/tree/v1.27.0"
+                "source": "https://github.com/symfony/polyfill-ctype/tree/v1.28.0"
             },
             "funding": [
                 {
@@ -1131,7 +1277,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-11-03T14:55:06+00:00"
+            "time": "2023-01-26T09:26:14+00:00"
         },
         {
             "name": "symfony/polyfill-intl-idn",
@@ -1222,16 +1368,16 @@
         },
         {
             "name": "symfony/polyfill-intl-normalizer",
-            "version": "v1.27.0",
+            "version": "v1.28.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-intl-normalizer.git",
-                "reference": "19bd1e4fcd5b91116f14d8533c57831ed00571b6"
+                "reference": "8c4ad05dd0120b6a53c1ca374dca2ad0a1c4ed92"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-intl-normalizer/zipball/19bd1e4fcd5b91116f14d8533c57831ed00571b6",
-                "reference": "19bd1e4fcd5b91116f14d8533c57831ed00571b6",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-normalizer/zipball/8c4ad05dd0120b6a53c1ca374dca2ad0a1c4ed92",
+                "reference": "8c4ad05dd0120b6a53c1ca374dca2ad0a1c4ed92",
                 "shasum": ""
             },
             "require": {
@@ -1243,7 +1389,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "1.27-dev"
+                    "dev-main": "1.28-dev"
                 },
                 "thanks": {
                     "name": "symfony/polyfill",
@@ -1286,7 +1432,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-intl-normalizer/tree/v1.27.0"
+                "source": "https://github.com/symfony/polyfill-intl-normalizer/tree/v1.28.0"
             },
             "funding": [
                 {
@@ -1302,7 +1448,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-11-03T14:55:06+00:00"
+            "time": "2023-01-26T09:26:14+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -1389,16 +1535,16 @@
         },
         {
             "name": "symfony/polyfill-php80",
-            "version": "v1.27.0",
+            "version": "v1.28.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php80.git",
-                "reference": "7a6ff3f1959bb01aefccb463a0f2cd3d3d2fd936"
+                "reference": "6caa57379c4aec19c0a12a38b59b26487dcfe4b5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/7a6ff3f1959bb01aefccb463a0f2cd3d3d2fd936",
-                "reference": "7a6ff3f1959bb01aefccb463a0f2cd3d3d2fd936",
+                "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/6caa57379c4aec19c0a12a38b59b26487dcfe4b5",
+                "reference": "6caa57379c4aec19c0a12a38b59b26487dcfe4b5",
                 "shasum": ""
             },
             "require": {
@@ -1407,7 +1553,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "1.27-dev"
+                    "dev-main": "1.28-dev"
                 },
                 "thanks": {
                     "name": "symfony/polyfill",
@@ -1452,7 +1598,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php80/tree/v1.27.0"
+                "source": "https://github.com/symfony/polyfill-php80/tree/v1.28.0"
             },
             "funding": [
                 {
@@ -1468,7 +1614,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-11-03T14:55:06+00:00"
+            "time": "2023-01-26T09:26:14+00:00"
         },
         {
             "name": "symfony/yaml",
@@ -1638,5 +1784,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "plugin-api-version": "2.6.0"
 }

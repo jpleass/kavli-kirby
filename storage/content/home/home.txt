@@ -2,11 +2,15 @@ Title: Home
 
 ----
 
-Headline: Welcome to Kirby's Starterkit
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://C6GxbhGHo0Qk9Ozv"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"b62a1dff-067a-4039-a839-ebfd9f99eb24","isHidden":false,"type":"image"}],"id":"43283f8a-e4c0-42a1-aaac-7ce1372b9a5f","width":"1/2"},{"blocks":[{"content":{"level":"h2","text":"Hello"},"id":"9888053f-5145-4b22-b8cb-166fabf9ed51","isHidden":false,"type":"heading"},{"content":{"text":"<p>I am the walrus</p>"},"id":"9747ef86-fac1-4d43-b648-46feac4d89e8","isHidden":false,"type":"text"},{"content":{"title":"Expansion","layout":"[{\"attrs\":[],\"columns\":[{\"blocks\":[{\"content\":{\"text\":\"<p>I must expand</p>\"},\"id\":\"9dfc4278-2a8f-4fbd-a797-d26605f2b5a2\",\"isHidden\":false,\"type\":\"text\"}],\"id\":\"d6f1aa12-565a-40b5-aaca-7bf92bff4d5f\",\"width\":\"1/1\"}],\"id\":\"55a7a188-c8ab-49b7-91c7-d486506a6388\"}]"},"id":"e087b2a2-1027-4b63-ac1b-ad1cac72f8ef","isHidden":false,"type":"expand"},{"content":{"title":"Expansion","layout":"[{\"attrs\":[],\"columns\":[{\"blocks\":[{\"content\":{\"text\":\"<p>I must expand</p>\"},\"id\":\"9dfc4278-2a8f-4fbd-a797-d26605f2b5a2\",\"isHidden\":false,\"type\":\"text\"}],\"id\":\"d6f1aa12-565a-40b5-aaca-7bf92bff4d5f\",\"width\":\"1/1\"}],\"id\":\"55a7a188-c8ab-49b7-91c7-d486506a6388\"}]"},"id":"76edc8db-becc-4664-acc4-9fe991fbceac","isHidden":false,"type":"expand"}],"id":"f3a734f5-c25b-4151-8c6d-92ad9774ae81","width":"1/2"}],"id":"07c8bd0d-8037-40e4-b710-8bce73cba788"}]
 
 ----
 
-Subheadline: A fully documented example project
+Headline: Welcome to Kavli
+
+----
+
+Subheadline: Hello
 
 ----
 

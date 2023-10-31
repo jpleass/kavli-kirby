@@ -1,0 +1,6 @@
+title: Event Item
+options:
+  preview: "{{ page.frontendUrl }}"
+tabs:
+  data: tabs/eventdata
+  blocks: tabs/content

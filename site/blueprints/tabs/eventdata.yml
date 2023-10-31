@@ -1,0 +1,67 @@
+label: Data
+columns:
+  data:
+    width: 2/3
+    sections:
+      data:
+        type: fields
+        headline: Blocks
+        fields:
+          cover:
+            type: blocks
+            label: Cover
+            fieldsets:
+              - image
+            multiple: false
+
+          dates:
+            label: Dates
+            type: blocks
+            fieldsets:
+              date:
+                preview: fields
+                fields:
+                  date:
+                    type: date
+                    default: today
+                    display: DD/MM/YYYY
+              daterange:
+                preview: fields
+                fields:
+                  start:
+                    type: date
+                    display: DD/MM/YYYY
+                  end:
+                    type: date
+                    display: DD/MM/YYYY
+            # type: date
+            # default: today
+          location:
+            type: text
+          type:
+            type: text
+          title:
+            type: text
+          heading:
+            type: writer
+          subheading:
+            type: writer
+          registerLink:
+            label: Registration link
+            type: url
+          links:
+            type: structure
+            label: Other links
+            fields:
+              url:
+                type: url
+                required: true
+              text:
+                type: text
+                required: true
+
+  files:
+    width: 1/3
+    sections:
+      files:
+        headline: Media

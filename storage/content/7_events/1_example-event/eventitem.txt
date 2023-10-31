@@ -1,0 +1,57 @@
+Title: Example Event
+
+----
+
+Cover: [{"content":{"location":"kirby","image":["file://QWsGJ82qlXt6y0Bw"],"src":"","alt":"","caption":"Caption","link":"","ratio":"","crop":"false"},"id":"cbc0f374-a9c7-4bf3-ab5e-5edb62a18cf0","isHidden":false,"type":"image"}]
+
+----
+
+Dates: [{"content":{"date":"2023-10-14"},"id":"f4b3f8d4-02db-42c6-a040-651c33945a39","isHidden":false,"type":"date"},{"content":{"date":"2023-10-15"},"id":"d363c7e7-74ed-4753-92ff-c31ea58dc39b","isHidden":false,"type":"date"},{"content":{"start":"2023-10-18","end":"2023-10-20"},"id":"aa601b67-500e-4f11-9419-4bec19e030d2","isHidden":false,"type":"daterange"},{"content":{"start":"2023-10-31","end":"2023-11-04"},"id":"70de1a7a-428c-4682-a3b1-bf32819571ec","isHidden":false,"type":"daterange"}]
+
+----
+
+Location: College room D (Aula) TU Delft
+
+----
+
+Type: Lecture
+
+----
+
+Heading: <p>Miriam B. Goodman (Stanford University)</p>
+
+----
+
+Subheading: <p>— Deciphering where and how touch happens</p>
+
+----
+
+Registerlink: https://example.com
+
+----
+
+Links:
+
+- 
+  url: https://example.com
+  text: Zoom link
+
+----
+
+Layout: [{"attrs":{"align":"top","padding":"false"},"columns":[{"blocks":[{"content":{"level":"h5","text":"<strong>Kavli colloquia</strong>","link":""},"id":"1f851fc2-3316-4f37-8636-feae95e1607c","isHidden":false,"type":"heading"},{"content":{"text":"<p>Et nunc id diam erat adipiscing sit scelerisque adipiscing. Euismod molestie egestas faucibus sagittis est. Ut eget fringilla auctor ullamcorper. In volutpat sit cursus senectus sagittis elementum aenean eget. Ultrices lacus vel sodales pellentesque. Sagittis tincidunt nibh consectetur pretium aliquam enim sed purus orci. Mattis dignissim ac nec aliquam.<br><br>Justo a pellentesque bibendum et massa maecenas diam eget elit. Imperdiet platea viverra elementum amet nibh gravida tempus aliquet adipiscing. Lacus congue eget in dignissim et praesent nibh vestibulum arcu. Nibh tortor interdum tempus gravida eros sit et. Sed semper lacus et adipiscing malesuada. In posuere donec pharetra at. Sem et libero velit turpis massa ac tortor in commodo.<br>Quis phasellus pharetra hendrerit arcu. Arcu nibh vivamus orci lobortis enim vitae suspendisse et dictumst. Curabitur lectus nunc neque habitant sit tempus. Amet elit orci ut felis in velit.</p>"},"id":"d423a70f-6cfc-45ae-92f6-d2817965624d","isHidden":false,"type":"text"},{"content":[],"id":"ab719f20-771f-438b-a263-dc68a3386d70","isHidden":false,"type":"gap"},{"content":{"url":"https://vimeo.com/819566627","caption":"Et nunc id diam erat adipiscing sit scelerisque adipiscing. Euismod molestie egestas faucibus sagittis est. Ut eget fringilla auctor ullamcorper. In volutpat sit cursus senectus sagittis elementum aenean eget. Ultrices lacus vel sodales pellentesque."},"id":"9b7bbbd9-b885-40d6-9f5e-6654f1b6ed08","isHidden":false,"type":"video"},{"content":[],"id":"6168807d-2091-4b8d-bfbb-d19b6ee4e0e4","isHidden":false,"type":"gap"},{"content":{"level":"h5","text":"<strong>Kavli colloquia</strong>","link":""},"id":"d47ceb8e-1bd0-44a1-b868-1b1d0a1ea584","isHidden":false,"type":"heading"},{"content":{"text":"<p>Et nunc id diam erat adipiscing sit scelerisque adipiscing. Euismod molestie egestas faucibus sagittis est. Ut eget fringilla auctor ullamcorper. In volutpat sit cursus senectus sagittis elementum aenean eget. Ultrices lacus vel sodales pellentesque. Sagittis tincidunt nibh consectetur pretium aliquam enim sed purus orci. Mattis dignissim ac nec aliquam.<br><br>Justo a pellentesque bibendum et massa maecenas diam eget elit. Imperdiet platea viverra elementum amet nibh gravida tempus aliquet adipiscing. Lacus congue eget in dignissim et praesent nibh vestibulum arcu. Nibh tortor interdum tempus gravida eros sit et. Sed semper lacus et adipiscing malesuada. In posuere donec pharetra at. Sem et libero velit turpis massa ac tortor in commodo.<br>Quis phasellus pharetra hendrerit arcu. Arcu nibh vivamus orci lobortis enim vitae suspendisse et dictumst. Curabitur lectus nunc neque habitant sit tempus. Amet elit orci ut felis in velit.</p>"},"id":"3bb97d3c-02db-4206-8a0e-c92c1aa94a3d","isHidden":false,"type":"text"},{"content":[],"id":"decdb6d0-d89e-4709-861a-f9d2e2f126d0","isHidden":false,"type":"gap"},{"content":{"level":"h5","text":"<strong>Programma</strong>","link":""},"id":"9bf350d4-12dd-4cc7-a229-2747ff72dc77","isHidden":false,"type":"heading"},{"content":{"program":[{"time":"15.30","text":"<p>Coffee and cake</p>"},{"time":"16.00","text":"<p><strong>Kavli colloquium by Prof. dr. ir. Alexander van Oudenaarden:</strong><br>“Novel Single-cell sequencing tools to explore cells in space and time”</p>"},{"time":"17.00 – 19.00","text":"<p>Drinks &amp; time to meet</p>"}]},"id":"4a8c6a58-fa17-4b07-8358-be23746d5f96","isHidden":false,"type":"program"}],"id":"b4d004d7-978e-47fc-aab6-cd091898b839","width":"1/1"}],"id":"be57ce94-df93-40fa-a479-b1c51f3385ff"}]
+
+----
+
+Date: 2023-10-30
+
+----
+
+Text: 
+
+----
+
+Relatedpages: 
+
+----
+
+Uuid: HiXhIGPfcLqNPumq

@@ -1,0 +1,10 @@
+name: Program
+preview: fields
+fields:
+  program:
+    type: structure
+    fields:
+      time:
+        type: text
+      text:
+        type: writer

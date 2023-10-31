@@ -1,0 +1,6 @@
+title: Events
+options:
+  preview: "{{ page.frontendUrl }}"
+tabs:
+  subpages: tabs/pagetableevent
+  blocks: tabs/content

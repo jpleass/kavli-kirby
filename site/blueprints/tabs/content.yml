@@ -42,6 +42,8 @@ columns:
               - cards
               - testimonial
               - quote
+              - news
+              - program
   files:
     width: 1/3
     sections:

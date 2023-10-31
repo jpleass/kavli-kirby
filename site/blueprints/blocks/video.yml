@@ -10,5 +10,3 @@ fields:
     label: field.blocks.video.caption
     type: writer
     inline: true
-  controls:
-    type: toggle

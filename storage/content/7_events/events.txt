@@ -1,0 +1,9 @@
+Title: Events
+
+----
+
+Layout: [{"attrs":{"align":"top","padding":"false"},"columns":[{"blocks":[{"content":{"level":"h2","text":"Events","link":""},"id":"3752fbd0-dee8-458d-a590-4d2d5e026ddd","isHidden":false,"type":"heading"},{"content":{"level":"h5","text":"The Kavli Institute of Nanoscience Delft has a highly international character with faculty members coming to Delft from all over the world. Many of the scientific staff had their education at renowned universities such as Stanford, Harvard, or Oxford. The Institute recently grew from 25 to 50 leading scientists (faculty members) and it projects further growth.","link":""},"id":"5f15f629-b3be-4850-a289-185ccbd4fccb","isHidden":false,"type":"heading"}],"id":"db1ae9ec-8394-4407-8f13-ce68df900905","width":"1/1"}],"id":"2f641af4-e7dd-4107-935d-29e16414e0a4"}]
+
+----
+
+Uuid: e5MzAz7BdgbZD8ha

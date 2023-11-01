@@ -1,0 +1,92 @@
+Title: Marie-Eve Aubin-Tam
+
+----
+
+Cover: [{"content":{"location":"kirby","image":["file://8GQshosjZlGP9OMc"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"b432b4f7-13ac-43de-808c-adc377e6ba1c","isHidden":false,"type":"image"}]
+
+----
+
+Name: Marie-Eve Aubin-Tam
+
+----
+
+Occupation: Associate Professor
+
+----
+
+Other:
+
+- 
+  title: Specialization
+  text: Bionanoscience
+- 
+  title: Something else
+  text: Over here
+
+----
+
+Tel: +31 15 27 82853
+
+----
+
+Email: M.E.Aubin-Tam@tudelft.nl
+
+----
+
+Website: https://example.com/aubin-tam-group
+
+----
+
+Location: 58.E0.080
+
+----
+
+Twitter: https://example.com
+
+----
+
+Facebook: https://example.com
+
+----
+
+Linkedin: https://example.com
+
+----
+
+Bio: <p><strong>Et nunc id diam erat adipiscing sit scelerisque adipiscing. Euismod molestie egestas faucibus sagittis est. Ut eget fringilla auctor ullamcorper. In volutpat sit cursus senectus sagittis elementum aenean eget. Ultrices lacus vel sodales pellentesque. Sagittis tincidunt nibh consectetur pretium aliquam enim sed purus orci. Mattis dignissim ac nec aliquam.</strong></p><p>Et nunc id diam erat adipiscing sit scelerisque adipiscing. Euismod molestie egestas faucibus sagittis est. Ut eget fringilla auctor ullamcorper. In volutpat sit cursus senectus sagittis elementum aenean eget. Ultrices lacus vel sodales pellentesque. Sagittis tincidunt nibh consectetur pretium aliquam enim sed purus orci. Mattis dignissim ac nec aliquam. Justo a pellentesque bibendum et massa maecenas diam eget elit. Imperdiet platea viverra elementum amet nibh gravida tempus aliquet adipiscing. Lacus congue eget in dignissim et praesent nibh vestibulum arcu. Nibh tortor interdum tempus gravida eros sit et. Sed semper lacus et adipiscing malesuada. In posuere donec pharetra at. Sem et libero velit turpis massa ac tortor in commodo.</p><p>Et nunc id diam erat adipiscing sit scelerisque adipiscing. Euismod molestie egestas faucibus sagittis est. Ut eget fringilla auctor ullamcorper. In volutpat sit cursus senectus sagittis elementum aenean eget. Ultrices lacus vel sodales pellentesque. Sagittis tincidunt nibh consectetur pretium aliquam enim sed purus orci. Mattis dignissim ac nec aliquam. Justo a pellentesque bibendum et massa maecenas diam eget elit. Imperdiet platea viverra elementum amet nibh gravida tempus aliquet adipiscing. Lacus congue eget in dignissim et praesent nibh vestibulum arcu. Nibh tortor interdum tempus gravida eros sit et. Sed semper lacus et adipiscing malesuada. In posuere donec pharetra at. Sem et libero velit turpis massa ac tortor in commodo.</p>
+
+----
+
+Publications:
+
+- 
+  url: https://example.com
+  heading: >
+    Is the Zero Reynolds Number
+    Approximation Valid for Ciliary Flows?
+  subheading: 'Physical Review Letters. Mar, 2019 | Pubmed ID: 30978086'
+- 
+  url: https://example.com
+  heading: >
+    Bacterially Produced, Nacre-Inspired
+    Composite Materials
+  subheading: 'Small (Weinheim an Der Bergstrasse, Germany). Apr, 2019 | Pubmed ID: 30951252'
+- 
+  url: https://example.com
+  heading: >
+    Stable Free-Standing Lipid Bilayer
+    Membranes in Norland Optical Adhesive 81
+    Microchannels
+  subheading: ' Analytical Chemistry. 08, 2016 | Pubmed ID: 2735121'
+
+----
+
+Layout: 
+
+----
+
+Role: Associate Professor
+
+----
+
+Uuid: S4V9nAb56nOQyKZd

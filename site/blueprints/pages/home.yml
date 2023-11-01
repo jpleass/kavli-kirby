@@ -5,6 +5,22 @@ options:
   preview: "{{ page.frontendUrl }}"
 
 tabs:
+  content:
+    label: Content
+    columns:
+      content:
+        width: 2/3
+        sections:
+          content:
+            type: fields
+            fields:
+              heading:
+                type: writer
+              promotedEvent:
+                type: pages
+                label: Promoted Event
+                query: site.find('events').children.listed
+                multiple: false
   blocks:
     extends: tabs/content
     columns:
@@ -16,6 +32,7 @@ tabs:
             headline: Blocks
             fields:
               layout:
+                extends: fields/layout
               bottomLayout:
                 type: layout
                 extends: fields/layout

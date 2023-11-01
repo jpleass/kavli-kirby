@@ -1,0 +1,32 @@
+title: Community Item
+options:
+  preview: "{{ page.frontendUrl }}"
+tabs:
+  data: tabs/communitydata
+  content:
+    columns:
+      content:
+        width: 2/3
+        sections:
+          content:
+            type: fields
+            fields:
+              bio:
+                type: writer
+              publications:
+                type: structure
+                fields:
+                  url:
+                    type: url
+                    required: true
+                  heading:
+                    type: text
+                    required: true
+                  subheading:
+                    type: text
+
+      files:
+        width: 1/3
+        sections:
+          files:
+            headline: Media

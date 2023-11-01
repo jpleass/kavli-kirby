@@ -1,0 +1,9 @@
+name: Event
+preview: fields
+fields:
+  event:
+    type: pages
+    multiple: false
+    label: Event
+    required: true
+    query: site.find('events').children.listed

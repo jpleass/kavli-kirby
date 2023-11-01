@@ -6,7 +6,7 @@ Cover: [{"content":{"location":"kirby","image":["file://QWsGJ82qlXt6y0Bw"],"src"
 
 ----
 
-Dates: [{"content":{"date":"2023-10-14"},"id":"f4b3f8d4-02db-42c6-a040-651c33945a39","isHidden":false,"type":"date"},{"content":{"date":"2023-10-15"},"id":"d363c7e7-74ed-4753-92ff-c31ea58dc39b","isHidden":false,"type":"date"},{"content":{"start":"2023-10-18","end":"2023-10-20"},"id":"aa601b67-500e-4f11-9419-4bec19e030d2","isHidden":false,"type":"daterange"},{"content":{"start":"2023-10-31","end":"2023-11-04"},"id":"70de1a7a-428c-4682-a3b1-bf32819571ec","isHidden":false,"type":"daterange"}]
+Dates: [{"content":{"date":"2023-11-14"},"id":"f4b3f8d4-02db-42c6-a040-651c33945a39","isHidden":false,"type":"date"},{"content":{"date":"2023-10-15"},"id":"d363c7e7-74ed-4753-92ff-c31ea58dc39b","isHidden":false,"type":"date"},{"content":{"start":"2023-10-18","end":"2023-10-20"},"id":"aa601b67-500e-4f11-9419-4bec19e030d2","isHidden":false,"type":"daterange"}]
 
 ----
 

@@ -34,3 +34,4 @@ fieldsets:
   - quote
   - news
   - program
+  - event

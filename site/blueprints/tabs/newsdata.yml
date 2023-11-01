@@ -14,7 +14,7 @@ columns:
               - image
             multiple: false
 
-          date:
+          postDate:
             type: date
             default: today
 

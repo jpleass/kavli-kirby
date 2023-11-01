@@ -1,1 +1,18 @@
 name: News
+fields:
+  isLocal:
+    type: toggle
+    label: Local
+    text:
+      - Global
+      - Local
+    default: true
+  page:
+    type: pages
+    multiple: false
+    help: Leave empty to use the current page.
+    when:
+      isLocal: true
+  limit:
+    type: number
+    default: "5"

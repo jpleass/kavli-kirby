@@ -1,0 +1,6 @@
+title: News
+options:
+  preview: "{{ page.frontendUrl }}"
+tabs:
+  subpages: tabs/pagetablecommunity
+  blocks: tabs/content

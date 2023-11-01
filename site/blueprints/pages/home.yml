@@ -5,32 +5,17 @@ options:
   preview: "{{ page.frontendUrl }}"
 
 tabs:
-  content:
-    icon: text
-    label: content
-    fields:
-      layout:
-        label: Layout
-        type: layout
-        settings:
-          fields:
-            align:
-              type: select
-              label: Alignment
-              options:
-                top: Top
-                center: Center
-                bottom: Bottom
-              default: top
-        layouts:
-          - "1/1"
-          - "1/2, 1/2"
-        fieldsets:
-          - heading
-          - text
-          - image
-          - video
-          - quote
-          - gap
-          # - gallery
-          - expand
+  blocks:
+    extends: tabs/content
+    columns:
+      blocks:
+        width: 2/3
+        sections:
+          blocks:
+            type: fields
+            headline: Blocks
+            fields:
+              layout:
+              bottomLayout:
+                type: layout
+                extends: fields/layout

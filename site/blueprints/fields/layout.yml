@@ -1,0 +1,36 @@
+name: layout
+type: layout
+settings:
+  fields:
+    align:
+      type: select
+      label: Alignment
+      options:
+        top: Top
+        center: Center
+        bottom: Bottom
+      default: top
+    padding:
+      type: toggle
+      label: Padding
+      default: false
+layouts:
+  - "1/1"
+  - "1/2, 1/2"
+fieldsets:
+  - heading
+  - text
+  - link
+  - multilinks
+  - image
+  - videocpm
+  - quote
+  - gap
+  - expand
+  - large-card
+  - small-card
+  - cards
+  - testimonial
+  - quote
+  - news
+  - program

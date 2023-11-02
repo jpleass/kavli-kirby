@@ -1,6 +1,27 @@
-title: News
+title: Community
 options:
   preview: "{{ page.frontendUrl }}"
 tabs:
   subpages: tabs/pagetablecommunity
   blocks: tabs/content
+  filters:
+    columns:
+      filters:
+        width: 3/3
+        sections:
+          filters:
+            type: fields
+            headline: Filters
+            fields:
+              info:
+                type: info
+                text: >
+                  These filters need to exist here before they can exist on the children pages.
+              filters:
+                type: structure
+                fields:
+                  title:
+                    type: text
+                    label: Title
+                  tags:
+                    type: tags

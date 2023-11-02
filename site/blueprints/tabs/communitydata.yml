@@ -21,13 +21,14 @@ columns:
           occupation:
             type: text
             width: 1/2
-          other:
-            type: structure
-            help: Specialization, etc.
-            fields:
-              title:
-                type: text
-              text:
+          filters:
+            type: multiselect
+            label: Filters
+            options:
+              type: query
+              query: site.find('community').filters.toStructure.pluck('tags', ',')
+              text: "[{{ site.find('community').getTagGroup(item.value) }}] {{ item.value }}"
+
           contact: fields/contact
 
   files:

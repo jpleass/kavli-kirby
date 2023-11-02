@@ -2,7 +2,23 @@ Title: Community
 
 ----
 
-Layout: [{"attrs":{"align":"top","padding":"false"},"columns":[{"blocks":[{"content":{"level":"h3","text":"Community","link":""},"id":"328854df-e6ff-475d-b1cd-d4f12214a2e2","isHidden":false,"type":"heading"},{"content":{"level":"h5","text":"The Kavli Institute of Nanoscience Delft has a highly international character with faculty members coming to Delft from all over the world. Many of the scientific staff had their education at renowned universities such as Stanford, Harvard, or Oxford. The Institute recently grew from 25 to 50 leading scientists (faculty members) and it projects further growth.","link":""},"id":"a395b164-8863-4022-892c-cab3738d7cd2","isHidden":false,"type":"heading"}],"id":"b6d97e32-43c5-466b-9b19-eca56e4b5260","width":"1/1"}],"id":"03f86a10-9d82-4be1-bab2-b55701d65c6c"}]
+Layout: [{"attrs":{"align":"top","padding":"false"},"columns":[{"blocks":[{"content":{"level":"h2","text":"Community","link":""},"id":"328854df-e6ff-475d-b1cd-d4f12214a2e2","isHidden":false,"type":"heading"},{"content":{"level":"h5","text":"The Kavli Institute of Nanoscience Delft has a highly international character with faculty members coming to Delft from all over the world. Many of the scientific staff had their education at renowned universities such as Stanford, Harvard, or Oxford. The Institute recently grew from 25 to 50 leading scientists (faculty members) and it projects further growth.","link":""},"id":"a395b164-8863-4022-892c-cab3738d7cd2","isHidden":false,"type":"heading"}],"id":"b6d97e32-43c5-466b-9b19-eca56e4b5260","width":"1/1"}],"id":"03f86a10-9d82-4be1-bab2-b55701d65c6c"}]
+
+----
+
+Filters:
+
+- 
+  title: People
+  tags: Staff, Chair, Researchers
+- 
+  title: Fields
+  tags: >
+    Bionanosience, Quantum Nanoscience,
+    QuTech
+- 
+  title: Optional
+  tags: Optional Field 1, Optional Field 2
 
 ----
 

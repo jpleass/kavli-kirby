@@ -14,14 +14,7 @@ Occupation: Associate Professor
 
 ----
 
-Other:
-
-- 
-  title: Specialization
-  text: Bionanoscience
-- 
-  title: Something else
-  text: Over here
+Filters: Quantum Nanoscience, Staff, Optional Field 1, Optional Field 2
 
 ----
 
@@ -37,7 +30,7 @@ Website: https://example.com/aubin-tam-group
 
 ----
 
-Location: 58.E0.080
+Location: 
 
 ----
 
@@ -78,6 +71,10 @@ Publications:
     Membranes in Norland Optical Adhesive 81
     Microchannels
   subheading: ' Analytical Chemistry. 08, 2016 | Pubmed ID: 2735121'
+
+----
+
+Other: 
 
 ----
 

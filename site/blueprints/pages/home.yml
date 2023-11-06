@@ -36,3 +36,4 @@ tabs:
               bottomLayout:
                 type: layout
                 extends: fields/layout
+  seotab: seo

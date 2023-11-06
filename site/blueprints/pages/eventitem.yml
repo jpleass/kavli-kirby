@@ -4,3 +4,4 @@ options:
 tabs:
   data: tabs/eventdata
   blocks: tabs/content
+  seotab: seo

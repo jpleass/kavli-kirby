@@ -4,3 +4,4 @@ options:
 tabs:
   subpages: tabs/pagetable
   blocks: tabs/content
+  seotab: seo

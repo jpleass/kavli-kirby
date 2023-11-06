@@ -1,43 +1,55 @@
 options:
   preview: "{{ site.frontendUrl }}"
 
-columns:
-  - width: 1/2
-    sections:
-      pages:
-        type: pages
-
-  - width: 1/2
-    sections:
-      fields:
-        type: fields
-        fields:
-          navigationPages:
-            label: Navigation Pages
+tabs:
+  main:
+    columns:
+      - width: 1/2
+        sections:
+          pages:
             type: pages
-          footer_logos:
-            label: Footer Logos
-            type: files
-            query: page.images
-          footer_contacts:
-            label: Footer Contacts
-            type: structure
+
+      - width: 1/2
+        sections:
+          fields:
+            type: fields
             fields:
-              link:
-          footer_newsletter:
-            type: group
+              navigationPages:
+                label: Navigation Pages
+                type: pages
+
+  footer:
+    columns:
+      - width: 1/1
+        sections:
+          footer:
+            type: fields
             fields:
-              footer_newsletter_url:
-                label: Newsletter Url
-                type: url
-              footer_newsletter_text:
-                label: Newsletter Text
+              footer_logos:
+                label: Footer Logos
+                type: files
+                query: page.images
+              footer_contacts:
+                label: Footer Contacts
+                type: structure
+                fields:
+                  link:
+              footer_newsletter:
+                type: group
+                fields:
+                  footer_newsletter_url:
+                    label: Newsletter Url
+                    type: url
+                  footer_newsletter_text:
+                    label: Newsletter Text
+                    type: text
+              footer_copyright:
+                label: Footer Copyright
                 type: text
-          footer_copyright:
-            label: Footer Copyright
-            type: text
-          footer_links:
-            label: Footer Links
-            type: structure
-            fields:
-              link:
+              footer_links:
+                label: Footer Links
+                type: structure
+                fields:
+                  link:
+
+  seotab: seo

@@ -23,7 +23,7 @@ fieldsets:
   - link
   - multilinks
   - image
-  - videocpm
+  - video
   - quote
   - gap
   - expand
